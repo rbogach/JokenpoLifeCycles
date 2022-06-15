@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/jokenpo_nav"
+    app:startDestination="@id/initialScreen">
+
+    <fragment
+        android:id="@+id/initialScreen"
+        android:name="com.example.jokenpolifecycles.InitialScreen"
+        android:label="@string/app_name"
+        tools:layout="@layout/fragment_initial_screen">
+        <action
+            android:id="@+id/action_initialScreen_to_game_nav"
+            app:destination="@id/game_nav" />
+    </fragment>
+    <navigation android:id="@+id/game_nav"
+        app:startDestination="@id/playerScreen">
+        <fragment
+            android:id="@+id/playerScreen"
+            android:name="com.example.jokenpolifecycles.PlayerScreen"
+            android:label="@string/app_name"
+            tools:layout="@layout/fragment_player_screen" />
+        <fragment
+            android:id="@+id/resultScreen"
+            android:name="com.example.jokenpolifecycles.ResultScreen"
+            android:label="@string/app_name"
+            tools:layout="@layout/fragment_result_screen" />
+    </navigation>
+</navigation>

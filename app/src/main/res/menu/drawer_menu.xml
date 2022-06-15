@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/playerScreen"
+        android:title="@string/jogadorUm"
+
+        />
+    <item
+        android:id="@+id/resultScreen"
+        android:title="@string/resultado"
+
+        />
+
+</menu>
