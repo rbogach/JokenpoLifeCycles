@@ -3,14 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/roman/AndroidStudioProjects/JokenpoLifeCycles/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/roman/AndroidStudioProjects/JokenpoLifeCycles/app/src/main/res/layout/activity_main.xml" value="0.16576086956521738" />
         <entry key="..\:/Users/roman/AndroidStudioProjects/JokenpoLifeCycles/app/src/main/res/layout/fragment_initial_screen.xml" value="0.16576086956521738" />
         <entry key="..\:/Users/roman/AndroidStudioProjects/JokenpoLifeCycles/app/src/main/res/layout/fragment_player_screen.xml" value="0.16576086956521738" />
         <entry key="..\:/Users/roman/AndroidStudioProjects/JokenpoLifeCycles/app/src/main/res/layout/fragment_result_screen.xml" value="0.16576086956521738" />
-        <entry key="..\:/Users/roman/AndroidStudioProjects/JokenpoLifeCycles/app/src/main/res/layout/menu_header.xml" value="0.10696266397578204" />
-        <entry key="..\:/Users/roman/AndroidStudioProjects/JokenpoLifeCycles/app/src/main/res/menu/bottom_nav_menu.xml" value="0.21654749744637386" />
-        <entry key="..\:/Users/roman/AndroidStudioProjects/JokenpoLifeCycles/app/src/main/res/menu/drawer_menu.xml" value="0.21654749744637386" />
-        <entry key="..\:/Users/roman/AndroidStudioProjects/JokenpoLifeCycles/app/src/main/res/menu/second_screen_menu.xml" value="0.21654749744637386" />
       </map>
     </option>
   </component>

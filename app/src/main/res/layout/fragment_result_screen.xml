@@ -18,7 +18,7 @@
             android:layout_marginStart="150dp"
             android:layout_marginEnd="150dp"
             android:text="@string/resultado"
-            android:textSize="34sp"
+            android:textSize="24sp"
             app:layout_constraintBottom_toTopOf="@+id/textView5"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"

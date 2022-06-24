@@ -1,14 +1,14 @@
 <resources>
-    <string name="app_name">Jokenpo</string>
-    <string name="text_view_name">Bem vindo ao \nJokenpo </string>
+    <string name="app_name">Jokenpo </string>
+    <string name="text_view_name">Bem vindo ao \n Jokenpo </string>
     <string name="button_name">Iniciar </string>
-    <string name="second_screen_title">Jokepo </string>
+    <string name="second_screen_title">Jokenpo </string>
     <string name="menu_reload">Reiniciar </string>
-    <string name="jogadorUm"> Jogador 1</string>
+    <string name="jogadorUm"> Jogador </string>
     <string name="resultado"> Resultado </string>
-    <string name="playerOne_botoom_nav_bar">Jogador 1</string>
-    <string name="result_bottom_nav_bar">Resultado </string>
-    <string name="choose_game">Selecionar jogada</string>
+    <string name="playerOne_botoom_nav_bar">Jogador </string>
+    <string name="result_bottom_nav_bar"> Resultado </string>
+    <string name="choose_game">Selecionar o jogo </string>
     <string name="win">O jogador xxx \nganhou</string>
     <string-array name="spinner">
         <item> Pedra </item>

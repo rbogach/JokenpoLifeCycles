@@ -54,12 +54,14 @@ dependencies {
     // Feature module Support
     implementation "androidx.navigation:navigation-dynamic-features-fragment:2.4.2"
 
-    implementation("androidx.lifecycle:lifecycle-runtime-ktx:2.5.0-rc01")
-    implementation("androidx.lifecycle:lifecycle-common-java8:2.5.0-rc01")
+
 
     // Testing Navigation
     androidTestImplementation "androidx.navigation:navigation-testing:2.4.2"
 
     // Jetpack Compose Integration
     implementation "androidx.navigation:navigation-compose:2.4.2"
+
+    implementation "androidx.lifecycle:lifecycle-runtime-ktx:2.5.0-rc02"
+    implementation "androidx.lifecycle:lifecycle-common-java8:2.5.0-rc02"
 }
